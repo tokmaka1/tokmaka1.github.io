@@ -23,19 +23,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Abdullah Tokmak"
+  bio              : "I am a doctoral researcher at the Cyber-physical Systems group at Aalto University under the supervision of Dominik Baumann. My research interest lies at the intersection of machine learning, nonparametric approximation, automatic control, and optimization."
+  location         : "Espoo, Finland"
+  employer         : "Aalto University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "abdullah.tokmak@aalto.fi" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/cs?query=Tokmak%2C+Abdullah&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
+  googlescholar    : "https://scholar.google.com/citations?user=ekTgPqIAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-7345-6807"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -45,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/tokmaka1"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : abdullahtokmak
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
