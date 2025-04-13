@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_picture.JPG"
   name             : "Abdullah Tokmak"
   bio              : "I am a doctoral researcher at Aalto University working at the intersection of machine learning, nonparametric approximation, automatic control, and optimization."
   location         : "Espoo, Finland"
