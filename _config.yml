@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Abdullah Tokmak"
-  bio              : "I am a doctoral researcher at the Cyber-physical Systems group at Aalto University under the supervision of Dominik Baumann. My research interest lies at the intersection of machine learning, nonparametric approximation, automatic control, and optimization."
+  bio              : "I am a doctoral researcher at Aalto University working at the intersection of machine learning, nonparametric approximation, automatic control, and optimization."
   location         : "Espoo, Finland"
   employer         : "Aalto University"
   uri              : # URL
