@@ -1,10 +1,10 @@
 ---
-title: "Digitial and Optimal Control"
+title: "Digitial and Optimal Control (since 2023)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Aalto University"
-date: 2023-2025
+date: 2023
 location: "Espoo, Finland"
 ---
 
