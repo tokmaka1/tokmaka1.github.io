@@ -14,4 +14,10 @@ I received my B.Sc. and M.Sc. degrees in Mechanical Engineering from RWTH Aachen
 In recognition of my academic achievements, I was awarded the [Springorum Commemorative Coin](https://www.maschinenbau.rwth-aachen.de/cms/maschinenbau/die-fakultaet/profil/preise-und-auszeichnungen/~dywf/springorum-denkmuenze/?Springorum-Denkmuenze=1000&lidx=1) for my Master’s degree and the [Friedrich-Wilhelm Award](https://www.dsme.rwth-aachen.de/cms/dsme/das-institut/aktuelle-meldungen/~bergpy/abdullah-tokmak-receives-friedrich-wilhelm-award/?lidx=1) for my Master’s thesis, both from RWTH Aachen University.
 
 
+## News
+- **Sep 2025**: I presented our poster on safe Bayesian optimization across noise models at the IEEE Finnish Control Workshop
+- **Sep 2025**: I ran the Tallinn Marathon in 3:11:30
+- **Sep 2025**: We submitted our work on safe Bayesian optimization across noise models to IEEE L-CSS and ACC
+- **Jul 2025**: Our paper got accepted to CDC 2025
+- **May 2025**: I presented our work on safe exploration in reproducing kernel Hilbert spaces at AISTATS
 
