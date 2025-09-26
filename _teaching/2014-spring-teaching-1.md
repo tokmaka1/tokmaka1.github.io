@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Aalto University"
-date: 2023
+date: 2023-09-01
 location: "Espoo, Finland"
 ---
 
