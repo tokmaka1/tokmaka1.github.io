@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Foundations of Machine Learning (2021-2022)"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "RWTH Aachen University"
+date: 2021-09-01
+location: "Aachen, Germamy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I served as a student teaching assistant during my mater's for Sebastian Trimpe's Foundations of Machine Learning course. My tasks included generating exercises and problem sets in Latex.
