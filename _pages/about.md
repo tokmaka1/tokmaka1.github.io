@@ -15,9 +15,8 @@ In recognition of my academic achievements, I was awarded the [Springorum Commem
 
 
 ## News
-- **Sep 2025**: I presented our poster on safe Bayesian optimization across noise models at the IEEE Finnish Control Workshop
+- **Sep 2025**: I presented our [[poster]](/files/general_noise_poster.pdf) on safe Bayesian optimization across noise models at the IEEE Finnish Control Workshop
 - **Sep 2025**: I ran the Tallinn Marathon in 3:11:30
-- **Sep 2025**: We submitted our work on safe Bayesian optimization across noise models to IEEE L-CSS and ACC
 - **Jul 2025**: Our paper got accepted to CDC 2025
 - **May 2025**: I presented our work on safe exploration in reproducing kernel Hilbert spaces at AISTATS
 
