@@ -12,7 +12,7 @@ author_profile: true
 
 
 ## Posters
-- **September 2025**: Safe Bayesian optimization across noise models: A practical and unified framework (IEEE Finnish Control Workshop, [poster](/files/ACC-poster.pdf))
+- **September 2025**: Safe Bayesian optimization across noise models: A practical and unified framework (IEEE Finnish Control Workshop, [poster](/files/ACC_poster.pdf))
 - **May 2025**: Safe exploration in reproducing kernel Hilbert spaces (AISTATS 2025, [poster](/files/AISTATS-poster.pdf))
 - **October 2024**: Automatic nonlinear MPC approximation with closed-loop guarantees (SysDO 2024, AI Day 2023, [poster](/ALKIAX-poster.pdf))
 
