@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Digitial and Optimal Control (Aalto University)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
