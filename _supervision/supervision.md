@@ -1,7 +1,7 @@
 
 I am continuously looking for excellent and motivated  master thesis students. If you are interested in being supervised by me, send me an email including a suggested project description, your transcript of records, and CV.
 
-## Master thesis
+## Master theses
 - **2025**: Safe and optimal control parameter tuning (B. Avci)
 - **2024**: Learning-based Control of Multi-Agent Systems (D. Gkoutzounis)
 
