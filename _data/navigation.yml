@@ -16,6 +16,8 @@ main:
     url: /teaching/
   - title: "Supervision"
     url: /supervision/
+  - title: "Honors"
+    url: /honors/
   - title: "CV"
     url: /files/cv.pdf
     
