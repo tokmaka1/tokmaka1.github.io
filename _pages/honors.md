@@ -4,6 +4,8 @@ title: "Honors"
 permalink: /honors/
 author_profile: true
 ---
+- **Travel grants**
+    - Finnish Automation Foundation, Automaatiosäätiö (2025, 3483€)
 - **Friedrich-Wilhelm Award** (2023, 500€)
     - Award from RWTH Aachen University for outstanding master's theses (top 18/7000)
     - Click here for the [news](https://www.dsme.rwth-aachen.de/cms/dsme/das-institut/aktuelle-meldungen/~bergpy/abdullah-tokmak-receives-friedrich-wilhe/)
