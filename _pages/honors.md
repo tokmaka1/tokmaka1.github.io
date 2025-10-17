@@ -4,8 +4,9 @@ title: "Honors"
 permalink: /honors/
 author_profile: true
 ---
-- **Travel grants**
-    - Finnish Automation Foundation, Automaatiosäätiö (2025, 3483€)
+- **PhD scholarship and travel grants**
+    - Finnish Automation Foundation, [Automaatiosäätiö](https://www.automaatioseura.fi/site/assets/files/1383/grant_guideline_2024_final.pdf) (2025, 3483€)
+    - [Nokia Scholarship](https://www.nokiafoundation.com/nokia-scholarship-info) for doctoral students in Information and Communications Technologies (2025, 7500€)
 - **Friedrich-Wilhelm Award** (2023, 500€)
     - Award from RWTH Aachen University for outstanding master's theses (top 18/7000)
     - Click here for the [news](https://www.dsme.rwth-aachen.de/cms/dsme/das-institut/aktuelle-meldungen/~bergpy/abdullah-tokmak-receives-friedrich-wilhe/)
