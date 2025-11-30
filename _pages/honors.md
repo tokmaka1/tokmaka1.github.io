@@ -6,7 +6,8 @@ author_profile: true
 ---
 - **PhD scholarship and travel grants**
     - Finnish Automation Foundation, [Automaatiosäätiö](https://www.automaatioseura.fi/site/assets/files/1383/grant_guideline_2024_final.pdf) (2025, 3483€)
-    - [Nokia Scholarship](https://www.nokiafoundation.com/nokia-scholarship-info) for doctoral students in Information and Communications Technologies (2025, 7500€)
+    - [Nokia Scholarship](https://www.nokiafoundation.com/nokia-scholarship-info) for doctoral students in Information and Communications Technologies (2025, 7500€, 29/293 acceptance rate)
+    - Scholarships from the [Kansallis-Osake-Pankki Fund](https://www.aalto.fi/en/grants-and-awards/kansallis-osake-pankin-rahasto) for Aalto University teachers of engineering and technology or doctoral students engaged in teaching (2025, 1000€)
 - **Friedrich-Wilhelm Award** (2023, 500€)
     - Award from RWTH Aachen University for outstanding master's theses (top 18/7000)
     - Click here for the [news](https://www.dsme.rwth-aachen.de/cms/dsme/das-institut/aktuelle-meldungen/~bergpy/abdullah-tokmak-receives-friedrich-wilhe/)
