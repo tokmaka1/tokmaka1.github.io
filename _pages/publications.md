@@ -12,6 +12,12 @@ author_profile: true
 
 You  can see all my publications on my [Google scholar](https://scholar.google.com/citations?user=ekTgPqIAAAAJ&hl=en) page.
 
+## Safe Bayesian optimization across noise models via scenario programming
+*Accepted for publication in IEEE Control Systems Letters, 2026*
+- Cite as: A. Tokmak, T.B. Schön, D. Baumann. "Safe Bayesian optimization across noise models via scenario programming," IEEE Control Systems Letters (accepted), 2026.
+- Download [preprint](https://arxiv.org/pdf/2512.11580)
+
+
 ## Towards safe control parameter tuning in distributed multi-agent systems
 *Accepted for publication at the 64th IEEE Conference on Decision and Control (CDC), 2025*
 - [Cite as](https://scholar.googleusercontent.com/scholar.bib?q=info:7jd2lnaLt88J:scholar.google.com/&output=citation&scisdr=CgIeaaBcEOSM7hXBgZo:AAZF9b8AAAAAaNbHmZrs58NsjG7r0OoVtJ7TO2I&scisig=AAZF9b8AAAAAaNbHmU_lwE__sbrHTAB33_Fv5TU&scisf=4&ct=citation&cd=-1&hl=en): A. Tokmak, T.B. Schön, D. Baumann. "Towards safe control parameter tuning in distributed multi-agent systems," CDC, 2025.
