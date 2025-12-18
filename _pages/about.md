@@ -15,11 +15,12 @@ In recognition of my academic achievements, I was awarded the [Springorum Commem
 
 
 ## News
+- **Dec 2025**: I attended CDC 2025 in Rio de Janeiro, Brazil
 - **Nov 2025**: Our paper "Safe Bayesian optimization across noise models via scenario programming" has been accepted to IEEE Control System Letters 
 - **Oct 2025**: I received the [Nokia Scholarship](https://www.nokiafoundation.com/nokia-scholarship-info), a travel grant of the [Finnish Society of Automation](https://www.automaatioseura.fi/site/assets/files/1383/grant_guideline_2024_final.pdf), and a scholarship from the [Kansallis-Osake-Pankki Fund
 ](https://www.aalto.fi/en/grants-and-awards/kansallis-osake-pankin-rahasto)
 - **Sep 2025**: I presented our [poster](/files/ACC_poster.pdf) on safe Bayesian optimization across noise models at the IEEE Finnish Control Workshop
-- **Sep 2025**: I ran the Tallinn Marathon in [3:11:30](/files/Tallinn_mara.png)
-- **Jul 2025**: Our paper got accepted to CDC 2025
-- **May 2025**: I presented our work on safe exploration in reproducing kernel Hilbert spaces at AISTATS
+- **Sep 2025**: I ran the Tallinn Marathon in [3:11](/files/Tallinn_mara.png)
+- **Jul 2025**: Our paper "Towards safe control parameter tuning in distributed multi-agent systems" got accepted to CDC 2025
+- **May 2025**: I presented our work on safe exploration in reproducing kernel Hilbert spaces at AISTATS in Phuket, Thailand
 
