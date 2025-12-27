@@ -9,16 +9,16 @@
 
 main:
   - title: "Publications"
-    url: /publications/ 
-  - title: "Presentations"
-    url: /talks/
+    url: publications/ 
+  - title: "Talks"
+    url: talks/
   - title: "Teaching"
-    url: presentations/
+    url: teaching/
   - title: "Supervision"
-    url: /supervision/
+    url: supervision/
   - title: "Honors"
-    url: /honors/
+    url: honors/
   - title: "CV"
-    url: /files/cv.pdf
+    url: files/cv.pdf
     
     
