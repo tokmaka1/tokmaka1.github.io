@@ -15,6 +15,7 @@ In recognition of my academic achievements, I was awarded the [Springorum Commem
 
 
 ## News
+- **Jan 2026**: I started off the year by giving a talk/seminar for [Lars Lindemann's](https://sites.google.com/view/larslindemann/main-page) lab. Check out the [slides](Files/Tokmak_talk_ETH_2026.pdf)!
 - **Dec 2025**: I attended CDC 2025 in Rio de Janeiro, Brazil
 - **Nov 2025**: Our paper "Safe Bayesian optimization across noise models via scenario programming" has been accepted to IEEE Control System Letters 
 - **Oct 2025**: I received the [Nokia Scholarship](https://www.nokiafoundation.com/nokia-scholarship-info), a travel grant of the [Finnish Society of Automation](https://www.automaatioseura.fi/site/assets/files/1383/grant_guideline_2024_final.pdf), and a scholarship from the [Kansallis-Osake-Pankki Fund
