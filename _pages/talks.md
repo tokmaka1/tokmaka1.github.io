@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Talks
+- **January 2026**: Bayesian optimization and scenario programming for safe control parameter tuning (ETH Zurich, [slides](/files/Tokmak_talk_ETH_2026.pdf))
 - **December 2025**: Towards safe control parameter tuning in distributed multi-agent systems (CDC 2025, [slides](/CDC_2025_MAS.pdf))
 - **March 2025**: Safe control parameter tuning with Bayesian optimization (Lappeenranta University, [slides](/files/Lappeenranta_talk.pdf))
 - **October 2024**: Safe exploration in reproducing kernel Hilbert spaces (Uppsala University, [slides](/files/Uppsala_talk.pdf))
