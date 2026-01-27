@@ -27,4 +27,6 @@ I am continuously looking for excellent and motivated  master thesis students. I
 
 
 ## Project courses
+- **2026**: Safe Bayesian optimization for quantum systems (L. Ojutkangas)
+- **2026**: Safe,efficient, and robust learning for radar-based autonomous machinery (Z. Ahlsteadt, K. Kokkonen, H. Medagangoda, H. V. Raveendran)
 - **2025**: Towards safe control of legged robots (E. Alitalo, E. Halminen, T. Rislakki, T. Saarela)
