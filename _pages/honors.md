@@ -5,7 +5,7 @@ permalink: /honors/
 author_profile: true
 ---
 - **PhD scholarship and travel grants**
-    - Finnish Automation Foundation, [Automaatiosäätiö](https://www.automaatioseura.fi/site/assets/files/1383/grant_guideline_2024_final.pdf) (2025, 3483€)
+    - Finnish Automation Foundation, [Automaatiosäätiö](https://www.automaatioseura.fi/in-english/) (3483€ in 2025, 3190€ in 2026)
     - [Nokia Scholarship](https://www.nokiafoundation.com/nokia-scholarship-info) for doctoral students in Information and Communications Technologies (2025, 7500€, 29/293, i.e., 9.9% AR)
     - Scholarships from the [Kansallis-Osake-Pankki Fund](https://www.aalto.fi/en/grants-and-awards/kansallis-osake-pankin-rahasto) for Aalto University teachers of engineering and technology or doctoral students engaged in teaching (2025, 1000€, 4/27, i.e., 14.8% AR)
 - **Friedrich-Wilhelm Award** (2023, 500€)
