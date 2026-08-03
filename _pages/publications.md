@@ -12,9 +12,21 @@ author_profile: true
 
 You  can see all my publications on my [Google scholar](https://scholar.google.com/citations?user=ekTgPqIAAAAJ&hl=en) page.
 
+## Safe learning-based control via function-based uncertainty quantification
+*Accepted for publication at the 65th IEEE Conference on Decision and Control (CDC), 2026*
+- Cite as: A. Tokmak, T. Karvonen, T.B. Schön, D. Baumann. "Safe learning-based control via function-based uncertainty quantification," CDC (accepted), 2026.
+- Download [preprint](https://arxiv.org/pdf/2604.01173)
+
+
+## Reliable sampling-based RKHS norm estimation via superconvergence
+*Accepted for publication at the 65th IEEE Conference on Decision and Control (CDC), 2026*
+- Cite as: T. Wenzel, A. Tokmak, C.Fiedler. "Reliable RKHS norm estimation via superconvergence," CDC (accepted), 2026.
+- Download [preprint](https://arxiv.org/pdf/2605.20091)
+
+
 ## Safe Bayesian optimization across noise models via scenario programming
-*Accepted for publication in IEEE Control Systems Letters, 2026*
-- Cite as: A. Tokmak, T.B. Schön, D. Baumann. "Safe Bayesian optimization across noise models via scenario programming," IEEE Control Systems Letters (accepted), 2026.
+*Published in IEEE Control Systems Letters, 2025*
+- Cite as: A. Tokmak, T.B. Schön, D. Baumann. "Safe Bayesian optimization across noise models via scenario programming," IEEE Control Systems Letters, 2025.
 - Download [preprint](https://arxiv.org/pdf/2512.11580)
 
 
