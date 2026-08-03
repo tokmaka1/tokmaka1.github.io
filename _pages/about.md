@@ -18,7 +18,7 @@ In recognition of my academic achievements, I was awarded the [Springorum Commem
 ## News
 - **Aug 2026**: I started a five-months research internship at Nokia Bell Labs
 - **Aug 2026**: I ran the Helsinki Twilight Run 5k in [17:34](/files/5km.jpg)
-- **Jul 2026**: Our paper "Safe learning-based control via function-based uncertainty quantification" has been accepted to CDC 2026
+- **Jul 2026**: We have two papers accepted to CDC 2026!
 - **Jan 2026**: I started off the year by giving a talk/seminar for [Lars Lindemann's](https://sites.google.com/view/larslindemann/main-page) lab. Check out the [slides](/files/Tokmak_talk_ETH_2026.pdf)!
 - **Dec 2025**: I attended CDC 2025 in Rio de Janeiro, Brazil
 - **Nov 2025**: Our paper "Safe Bayesian optimization across noise models via scenario programming" has been accepted to IEEE Control System Letters 
