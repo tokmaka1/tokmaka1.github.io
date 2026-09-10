@@ -16,7 +16,7 @@ In recognition of my academic achievements, I was awarded the [Springorum Commem
 
 
 ## News
-- **Sep 2026**: I attended the [2nd International Conference on Probabilistic Numerics (ProbNum 2026)](https://probnum2026.github.io/), hosted by Toni Karvonen in Lappeenranta.
+- **Sep 2026**: I attended the [2nd International Conference on Probabilistic Numerics (ProbNum 2026)](https://probnum2026.github.io/), hosted by Toni Karvonen in Lappeenranta, where I presented our work, "Safe learning-based control via function-based uncertainty quantification". Check out the [poster](/files/ProbNum_poster.pdf)!
 - **Aug 2026**: I started a five-months research internship at Nokia Bell Labs
 - **Aug 2026**: I ran the Helsinki Twilight Run 5k in [17:34](/files/5km.jpg)
 - **Jul 2026**: We have two papers accepted to CDC 2026!
